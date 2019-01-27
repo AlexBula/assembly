@@ -1,6 +1,6 @@
 # Assembly Projects
 
-## This repository contains code in both x86_64 and ARM format
+## This repository contains code for both x86_64 and ARM architecture
 
 
 ### Included projects:

@@ -142,7 +142,7 @@ _save_values:
 _loop:
  
     @ mov the newly calculated temperature to the correct place
-    ldr r1, [r2, #4]        @ get the newly calculated state
+    ldr r1, [r5, #4]        @ get the newly calculated state
     str r1, [r5]            @ save the new state as current
 
     add r9, r9, #1          @ increment the counter
